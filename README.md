@@ -1,3 +1,5 @@
+Using yarn v0.24.6
+
 - Working branch: https://github.com/timkelty/yarn-order-bug/tree/working
 - Broken branch: https://github.com/timkelty/yarn-order-bug/tree/broken
 
