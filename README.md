@@ -5,6 +5,8 @@ The `package.json` in each branch is identical except for the order,
 however the resulting `node_modules` end up different, and in this case end up
 breaking this script:
 
+Comparison: https://github.com/timkelty/yarn-order-bug/compare/broken...working
+
 ```
 yarn start -- --use neutrino-preset-web
 ```
