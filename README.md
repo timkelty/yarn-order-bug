@@ -14,7 +14,7 @@ I've included the sourced `node_modules` directories for comparison.
 You can recreate this by starting fresh:
 
 ```
-rm -rf ./node_modules yarn.lock && yarn
+rm -rf ./node_modules yarn.lock && yarn cache clean && yarn
 ```
 
 The broken branch will give you an error like:
